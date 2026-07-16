@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[47257,["/fifa2026-worldcup/_next/static/chunks/1_lx2pm5dy21g.js","/fifa2026-worldcup/_next/static/chunks/14mrh2-p_w84d.js"],"ClientPageRoot"]
-3:I[30712,["/fifa2026-worldcup/_next/static/chunks/1_lx2pm5dy21g.js","/fifa2026-worldcup/_next/static/chunks/14mrh2-p_w84d.js","/fifa2026-worldcup/_next/static/chunks/15zfmk4y2jhca.js"],"default"]
+3:I[30712,["/fifa2026-worldcup/_next/static/chunks/1_lx2pm5dy21g.js","/fifa2026-worldcup/_next/static/chunks/14mrh2-p_w84d.js","/fifa2026-worldcup/_next/static/chunks/1irw7hkl82a4q.js"],"default"]
 6:I[97367,["/fifa2026-worldcup/_next/static/chunks/1_lx2pm5dy21g.js","/fifa2026-worldcup/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{"id":"r16_1"},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/fifa2026-worldcup/_next/static/chunks/15zfmk4y2jhca.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"VQIO3shD_4A7kNY13MJpN"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{"id":"r16_1"},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/fifa2026-worldcup/_next/static/chunks/1irw7hkl82a4q.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4n-Lo-8-Df-qc3wl0B5Hx"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
